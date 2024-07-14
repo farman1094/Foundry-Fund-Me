@@ -114,6 +114,10 @@ contract FundMeTest is Test {
         assert(startingFundMeBalance + startingOwnerBalance == fundMe.getOwner().balance);
     }
 
+    function TestGitUpdated() public {
+        // test
+    }
+
     // function testWithdrawFromMultipleFunders() public funded {
     //     // Arrange
     //     vm.prank(USER); //The Next Tx will be sent by user
