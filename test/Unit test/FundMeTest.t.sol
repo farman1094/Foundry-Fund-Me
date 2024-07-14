@@ -117,6 +117,10 @@ contract FundMeTest is Test {
     function TestGitUpdated() public {
         // test
     }
+    function TestGitUpdated1() public {
+        // test
+        // Working fine
+    }
 
     // function testWithdrawFromMultipleFunders() public funded {
     //     // Arrange
